@@ -12,7 +12,7 @@
 
 #简述
 
-> > project\* 为一个独立模块，下面简称为 module。
+> > projectA 为一个独立模块，下面简称为 module。
 > > 内部氛围 static 与 assets 两大文件夹，
 > > static 为 线上资源， assets 为本地资源。
 > > 若 module 内存在多个子模块， 子模块也应遵循此约定的目录结构。
